@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "snKUBCga4HpZ/CtgvcnrrT8yHAqFOWsuXKQsOnWlaDrfBkQgcLLVPp9CvLODShrT9dDGBR8VaiDtLfGgCOQJ0w==",
+  "success": true,
+  "projectFilePath": "/home/gala/.vscode/2course/lab2_final/Game/Game.csproj",
+  "expectedPackageFiles": [
+    "/home/gala/.nuget/packages/mstest.testadapter/3.0.0/mstest.testadapter.3.0.0.nupkg.sha512",
+    "/home/gala/.nuget/packages/mstest.testframework/3.0.0/mstest.testframework.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

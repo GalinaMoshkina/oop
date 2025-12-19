@@ -1,0 +1,45 @@
+/home/gala/.vscode/2course/lab2/Game/obj/Debug/net8.0/Game.csproj.AssemblyReference.cache
+/home/gala/.vscode/2course/lab2/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/gala/.vscode/2course/lab2/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/home/gala/.vscode/2course/lab2/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/home/gala/.vscode/2course/lab2/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/home/gala/.vscode/2course/lab2 final/Game/obj/Debug/net8.0/Game.csproj.AssemblyReference.cache
+/home/gala/.vscode/2course/lab2 final/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/gala/.vscode/2course/lab2 final/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/home/gala/.vscode/2course/lab2 final/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/home/gala/.vscode/2course/lab2 final/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Game
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Game.deps.json
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Game.runtimeconfig.json
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Game.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Game.pdb
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/home/gala/.vscode/2course/lab2_final/Game/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.csproj.AssemblyReference.cache
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.csproj.CopyComplete
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.dll
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/refint/Game.dll
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.pdb
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/Game.genruntimeconfig.cache
+/home/gala/.vscode/2course/lab2_final/Game/obj/Debug/net8.0/ref/Game.dll
